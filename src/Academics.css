@@ -1,0 +1,77 @@
+/* Academics.css */
+.academics1{
+  margin-top: 40px;
+}
+.academics {
+  width: 1200px;
+  margin: auto;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color:rgb(214, 219, 210);
+    border-radius: 8px;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(50, 54, 43);
+    margin-bottom: 20px;
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    ccolor: rgb(50, 54, 43);
+    margin-top: 20px;
+  }
+  
+  .curriculum-section, .curriculum-stream {
+    margin-top: 20px;
+  }
+  
+  .curriculum-section h3, .curriculum-stream h4 {
+    color: rgb(50, 54, 43);
+  }
+  
+  .container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .container ul li {
+    background: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .teaching-methodologies, .educational-resources, .blog {
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .blog p {
+    font-style: italic;
+    color: rgb(50, 54, 43);
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .container {
+      padding: 0 10px;
+    }
+  
+    .container ul li {
+      font-size: 14px;
+      padding: 8px;
+    }
+  }
+  
