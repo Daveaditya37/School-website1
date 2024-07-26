@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+Springdale Public School Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the repository for the Springdale Public School website. This project is a comprehensive web application designed to provide information about the school's academics, admissions, faculty, students, gallery, and contact details. The website is built using React and includes a responsive design suitable for various screen sizes.
 
-## Available Scripts
+Table of Contents:
 
-In the project directory, you can run:
+Installation
 
-### `npm start`
+Usage
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Pages
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Home
+About Us
 
-### `npm test`
+Academics
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Admissions
 
-### `npm run build`
+Faculty
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Students
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Gallery
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Contact
+Footer
 
-### `npm run eject`
+Installation:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To get a local copy of the project up and running, follow these steps:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone the repository:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+git clone https://github.com/Daveaditya37/School-website.git
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Navigate to the project directory:
 
-## Learn More
+cd School-website
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install the dependencies:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+npm install
 
-### Code Splitting
+To start the development server, run:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+npm start
 
-### Analyzing the Bundle Size
+The application will be available at http://localhost:3000.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Pages:
 
-### Making a Progressive Web App
+Home:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The Home page welcomes visitors to Springdale Public School and provides an introduction to the institution. It features a navbar with links to various sections of the website.
 
-### Advanced Configuration
+About Us:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+The About Us page includes information about the school's history, vision, mission, and the principal's message. It highlights the school's commitment to academic excellence and holistic development.
 
-### Deployment
+Academics:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+The Academics page details the curriculum offered at different grade levels:
 
-### `npm run build` fails to minify
+Primary (Grades 1-5): English, Mathematics, Science, Social Studies, Art, Physical Education.
+Secondary (Grades 6-10): English, Mathematics, Science (Physics, Chemistry, Biology), Social Studies, Computer Science, Physical Education, Art.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Senior Secondary (Grades 11-12):
+
+Science Stream: Physics, Chemistry, Biology, Mathematics, Computer Science, English.
+
+Commerce Stream: Accountancy, Business Studies, Economics, Mathematics, English.
+
+Admissions:
+
+The Admissions page outlines the admission process, criteria, and important dates. It also includes a download button for the admission form.
+
+Faculty:
+
+The Faculty page provides profiles of key faculty members, including their qualifications and experience.
+
+Students:
+
+The Students page describes student life at Springdale, highlighting extracurricular activities, clubs, societies, achievements, and the student council.
+
+Gallery:
+
+The Gallery page features photos and videos showcasing various events and activities at Springdale Public School.
+
+Contact:
+
+The Contact page provides the school's address, phone number, email, and a contact form. It also includes a Google Maps integration for easy location access.
+
+Footer:
+
+The footer includes quick links to different pages, contact information, and social media icons for following the school on various platforms.
